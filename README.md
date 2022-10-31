@@ -1,4 +1,4 @@
-# Um sistema de cadastro e login
+# Sistema de cadastro e login
 
 ## Linguagens e programas utilizados
 
