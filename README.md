@@ -1,4 +1,4 @@
-# Sistema de cadastro e login
+# Sistema de login
 
 ## Linguagens e programas utilizados
 
