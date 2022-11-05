@@ -1,6 +1,6 @@
 # Sistema de login
 
-Um sistema de cadastro e login feito com php com banco de dados mysql
+Um sistema de cadastro e login feito com php com banco de dados mysql.
 
 ## Linguagem de programação
 
